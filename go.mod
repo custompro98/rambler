@@ -1,6 +1,6 @@
 module github.com/custompro98/rambler
 
-go 1.20
+go 1.23
 
 require (
 	dario.cat/mergo v1.0.0
